@@ -4,7 +4,7 @@ Este é um projeto simples em Python onde o usuário tenta adivinhar um valor en
 
 ## Funcionamento do Game.
 
-- O Game escolhe um número aleatório entre **1 e 100**.
+- O Game escolhe um número aleatório entre ~**1 e 100**~.
 - Você deve digitar tentativas até acertar.
 - o programa informa se o numero sorteado e **menor ou maior** ao digitado.
 
@@ -15,7 +15,7 @@ Este é um projeto simples em Python onde o usuário tenta adivinhar um valor en
 
 ## Como executar
 
-1. Clone o repositório ou baixe o arquivo `Game.py`
+1. Clone o repositório ou baixe o arquivo `Game.py`.
 2. No terminal, execute:
 
 ```bash
